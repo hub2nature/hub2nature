@@ -23,13 +23,13 @@ repository               : "hub2nature/hub2nature"
 author:
   # Biographic information
   avatar           : "received_555862872377911(1).jpeg"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Madhurima Mondal"
+  pronouns         : "she/her"  
+  bio              : "Embark on the world of discovery with me!"
+  location         : "Texas"
+  employer         : "Texas A&M University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mmkpa2012@tamu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
