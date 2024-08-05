@@ -22,10 +22,10 @@ repository               : "hub2nature/hub2nature"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : #"profile.png"
   name             : "Madhurima Mondal"
-  pronouns         : "she/her"  
-  bio              : "Embark on the world of discovery with me!"
+  pronouns         : #"she/her"  
+  bio              : #"Embark on the world of discovery with me!"
   location         : "Texas"
   employer         : "Texas A&M University"
   uri              : # URL
