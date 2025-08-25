@@ -22,7 +22,7 @@ repository               : "hub2nature/hub2nature"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/p.jpeg"
+  avatar           : "images/profile.jpg"
   name             : "Madhurima Mondal"
   pronouns         : "she/her"  
   bio              : "Embark on the world of discovery with me!"
