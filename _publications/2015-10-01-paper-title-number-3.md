@@ -1,13 +1,11 @@
 ---
-title: "Paper Title Number 3"
+title: "A Computational Study of Efficient Combinations of FDA-approved drugs and dietary supplements in Endometrial Cancer"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2024-endometrial-combinations
+excerpt: 'This paper explores efficient combinations of FDA-approved drugs and dietary supplements in endometrial cancer through computational modeling.'
+date: 2024-06-01
+venue: 'IEEE Access'
+paperurl: 'https://doi.org/10.1109/ACCESS.2024.xxxxxx'  # Replace with actual DOI link if available
+citation: 'Madhurima Mondal, Aditya Lahiri, Haswanth Vundavilli, Giuseppe Del Priore, Norman Peter Reeves, and Aniruddha Datta. (2024). "A Computational Study of Efficient Combinations of FDA-approved drugs and dietary supplements in Endometrial Cancer." <i>IEEE Access</i>.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper presents a computational study of promising FDA-approved drug and dietary supplement combinations that may enhance therapeutic effectiveness against endometrial cancer. Using a systems biology framework, we model key pathways and simulate intervention scenarios to identify synergistic combinations.
