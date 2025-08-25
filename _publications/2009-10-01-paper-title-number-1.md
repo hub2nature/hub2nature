@@ -1,13 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Drug Target Identification in Triple Negative Breast Cancer Stem Cell Pathways: A Computational Study of Gene Regulatory Pathways using Boolean Networks"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2023-tnbc-boolnet
+excerpt: 'This study uses Boolean network modeling to identify drug targets in triple-negative breast cancer stem cell pathways.'
+date: 2023-06-01
+venue: 'IEEE Access'
+paperurl: 'https://doi.org/10.1109/ACCESS.2023.3273554'
+citation: 'Aditya Lahiri, Haswanth Vundavilli, Madhurima Mondal, Pranabesh Bhattacharjee, Brian Decker, Giuseppe Del Priore, N. Peter Reeves, and Aniruddha Datta. (2023). "Drug Target Identification in Triple Negative Breast Cancer Stem Cell Pathways: A Computational Study of Gene Regulatory Pathways using Boolean Networks." <i>IEEE Access</i>, 11, 56672–56690.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This study presents a Boolean network-based computational approach to identify potential drug targets within gene regulatory pathways relevant to triple-negative breast cancer stem cells. By integrating literature-derived pathway data and simulating network dynamics, the study identifies key nodes whose perturbation may effectively suppress tumorigenic behavior.
