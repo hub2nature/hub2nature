@@ -7,7 +7,7 @@ title: "Madhurima Mondal"
 
 I am Madhurima Mondal, a PhD student in Electrical and Computer Engineering at Texas A&M University. My research focuses on Drug Repurposing specifically using Graph Neural Networks, and Large Language Models. 
 
-In addition to my technical pursuits, I am trained in Rabindra Sangeet and enjoy painting. I often translate vivid images into my own artistic interpretations, bringing them to life on canvas with a blend of colors and emotions. I also have a passion for photography and enjoy capturing the beauty of everyday moments. Additionally, I have a deep appreciation for Indian books and Bengali novels, which enrich my understanding of my cultural heritage.
+In addition to my technical pursuits, I am trained in Rabindra Sangeet and enjoy painting. I often translate vivid images into my own artistic interpretations, bringing them to life on canvas with a blend of colors and emotions. I also have a passion for photography and enjoy capturing the beauty of everyday moments. Additionally, I have a deep appreciation for literature, which enrich my understanding of my cultural heritage.
 
 **Contact**:
 
