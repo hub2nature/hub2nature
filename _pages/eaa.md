@@ -2,6 +2,7 @@
 layout: page
 title: "EAA"
 permalink: /eaa/
+author_profile: true
 ---
 
 # Extracurricular Artistic Adventures 🎨
@@ -9,7 +10,7 @@ permalink: /eaa/
 This section showcases my creative expressions in photography, painting, culinary work, and literature.
 
 ---
-
+<!-- 
 ## 📸 Photography
 
 ### 🌇 San Diego, July 2023  
@@ -37,4 +38,10 @@ This section showcases my creative expressions in photography, painting, culinar
 
 ## 📚 Literature Interests
 
-*Coming soon!*
+*Coming soon!* -->
+
+{% include base_path %}
+
+{% for post in site.eaa reversed %}
+  {% include archive-single.html %}
+{% endfor %}
