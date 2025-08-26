@@ -13,6 +13,7 @@ Surprisingly, even on the pickleball court, I like my shots thoughtful and well-
 
 **Contact**:
 - Email: [mmkpa2012@tamu.edu](mailto:mmkpa2012@gmail.com)
-- LinkedIn: [Madhurima Mondal](https://www.linkedin.com/in/madhurima-mondal-65a59882/)
-- GitHub: [hub2nature](https://hub2nature.github.io/)
-- Reseach: [Google Scholar](https://scholar.google.com/citations?user=hnwrjM0AAAAJ&hl=en)
+- Office: WEB 218B
+<!-- - LinkedIn: [Madhurima Mondal](https://www.linkedin.com/in/madhurima-mondal-65a59882/) -->
+<!-- - GitHub: [hub2nature](https://hub2nature.github.io/)
+- Reseach: [Google Scholar](https://scholar.google.com/citations?user=hnwrjM0AAAAJ&hl=en) -->
