@@ -1,5 +1,6 @@
 ---
-layout: page
+# layout: page
+layout: single
 title: "EAA"
 permalink: /eaa/
 author_profile: true
