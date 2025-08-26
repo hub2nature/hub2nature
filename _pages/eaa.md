@@ -8,5 +8,5 @@ This section showcases my extracurricular artistic adventures — from photograp
 
 - [Photography](/eaa/photography)
 - [Painting](/eaa/painting)
-- [Sky and Colors](/eaa/sky-and-colors)
-- [Culinary Diaries](/eaa/culinary)
+- [Culinary Diaries](/eaa/culinary_diaries)
+- [Literature Interests](/eaa/literature)
