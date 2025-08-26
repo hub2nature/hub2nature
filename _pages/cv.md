@@ -26,5 +26,5 @@ Work experience
 * Summer 2020: Deep Learning Engineer Intern, Samsung R&D Institute, India
 * Summer 2019: Visiting Exchange Student, University of Illinois at Urbana-Champaign, USA
   Supervisor: Dr. Idoia Ochoa
-  
-A complete overview of my academic and professional background is in my [resume](/https://hub2nature.github.io/hub2nature/MadhurimaM1.pdf).
+
+<p>A complete overview of my academic and professional background is in my <a href="https://hub2nature.github.io/hub2nature/MadhurimaM1.pdf" target="_blank">resume</a>.</p>
