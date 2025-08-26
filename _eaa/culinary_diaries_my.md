@@ -6,7 +6,7 @@ permalink: /eaa/culinary
 # excerpt: "Snapshots of homemade culinary experiments."
 ---
 
-## Culinary Diaries MY
+## Culinary Diaries 
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
