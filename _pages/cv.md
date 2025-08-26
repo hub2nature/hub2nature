@@ -11,26 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Texas A&M University, USA  
+  Doctor of Philosophy, Electrical and Computer Engineering  
+  Aug. 2021 – Present (Expected graduation: 2026)
+
+* Indian Institute of Technology (IIT) Kharagpur, India  
+  Dual Degree (B.Tech & M.Tech), Electronics and Electrical Communication Engineering  
+  Aug. 2016 – May 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: Research Engineer (NSF Funded Internship)
+  
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Deep Learning Engineer Intern
+  
+
+* Summer 2019: Visiting Exchange Student
+  
   
 Skills
 ======
