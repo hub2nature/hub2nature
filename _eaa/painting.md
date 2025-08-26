@@ -6,7 +6,7 @@ permalink: /eaa/painting
 # excerpt: "A gallery of paintings inspired by online references."
 ---
 
-## Painting
+## Painting 
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
