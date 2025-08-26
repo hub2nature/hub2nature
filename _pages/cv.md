@@ -22,12 +22,9 @@ Education
 Work experience
 ======
 
-* Summer 2023: Research Engineer (NSF Funded Internship)
+* Summer 2023: Research Engineer Intern (NSF Funded Internship), Sumaq Life LLC, Michigan, USA
+* Summer 2020: Deep Learning Engineer Intern, Samsung R&D Institute, India
+* Summer 2019: Visiting Exchange Student, University of Illinois at Urbana-Champaign, USA
+  Supervisor: Dr. Idoia Ochoa
   
-
-* Summer 2020: Deep Learning Engineer Intern
-  
-
-* Summer 2019: Visiting Exchange Student
-  
-You can find a complete overview of my academic and professional background in my [resume](/files/MadhurimaM1.pdf).
+A complete overview of my academic and professional background is in my [resume](/files/MadhurimaM1.pdf).
