@@ -34,12 +34,7 @@ excerpt: "A gallery of paintings inspired by online references."
     <!-- <em>Captured near a peaceful lake</em> -->
   </div>
 
-  <div style="flex: 0 0 30%; text-align: center;">
-    <img src="{{ '/images/eaa/2016-10-01-sunset_from_iit.jpg' | relative_url }}" alt="Sunset from my IIT Kharagpur residence" width="300"><br>
-    <small>🌇 Sunset from IIT, Sep 2016</small><br>
-    <!-- <em>From the IIT terrace</em> -->
-  </div>
-
+  
   <div style="flex: 0 0 30%; text-align: center;">
     <img src="{{ '/images/eaa/2021-10-01-yellow.jpg' | relative_url }}" alt="Yellow Vibes" width="300"><br>
     <small>🟡 Yellow Vibes, Oct 2021*</small><br>
