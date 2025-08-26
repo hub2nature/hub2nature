@@ -8,34 +8,42 @@ excerpt: "A gallery of paintings inspired by online references."
 
 ## Painting
 
-### 🟣 Abstract Painting, Jan 2021  
-![Abstract Painting](/images/eaa/2021-01-02_abstract_painting.jpeg)  
-*Inspired by reference found on Google Images*
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
----
+  <div style="flex: 0 0 30%; text-align: center;">
+    <img src="{{ '/images/eaa/2021-01-02_abstract_painting.jpeg' | relative_url }}" alt="Abstract Painting" width="300"><br>
+    <small>🟣 Abstract Painting, Jan 2021</small><br>
+    <em>Inspired by Google Images</em>
+  </div>
 
-### 🌴 Coconut Tree Painting, Oct 2021  
-![Coconut Tree](/images/eaa/2021-10-01-Painting_coconut_tree.jpg)  
-*Inspired by reference found on Google Images*
+  <div style="flex: 0 0 30%; text-align: center;">
+    <img src="{{ '/images/eaa/2021-10-01-Painting_coconut_tree.jpg' | relative_url }}" alt="Coconut Tree" width="300"><br>
+    <small>🌴 Coconut Tree Painting, Oct 2021</small><br>
+    <em>Inspired by Google Images</em>
+  </div>
 
----
+  <div style="flex: 0 0 30%; text-align: center;">
+    <img src="{{ '/images/eaa/2021-07-30_painting_love.webp' | relative_url }}" alt="Love Theme" width="300"><br>
+    <small>💖 Love Theme, July 2021</small><br>
+    <em>Inspired by Google Images</em>
+  </div>
 
-### 💖 Love Theme, July 2021  
-![Love Painting](/images/eaa/2021-07-30_painting_love.webp)  
-*Inspired by reference found on Google Images*
+  <div style="flex: 0 0 30%; text-align: center;">
+    <img src="{{ '/images/eaa/2020-04-27_pink_tree_water.jpg' | relative_url }}" alt="Pink Tree" width="300"><br>
+    <small>🌸 Pink Tree & Water, April 2020</small><br>
+    <em>Captured near a peaceful lake</em>
+  </div>
 
-### 🌸 Pink Tree & Water, April 2020  
-![Pink Tree](/images/eaa/2020-04-27_pink_tree_water.jpg)  
-*Captured near a peaceful lake in Spring*
+  <div style="flex: 0 0 30%; text-align: center;">
+    <img src="{{ '/images/eaa/2016-10-01-sunset_from_iit.jpg' | relative_url }}" alt="Sunset from IIT" width="300"><br>
+    <small>🌇 Sunset from IIT, Oct 2016</small><br>
+    <em>From the IIT terrace</em>
+  </div>
 
----
+  <div style="flex: 0 0 30%; text-align: center;">
+    <img src="{{ '/images/eaa/2021-10-01-yellow.jpg' | relative_url }}" alt="Yellow Vibes" width="300"><br>
+    <small>🟡 Yellow Vibes, Oct 2021</small><br>
+    <em>A burst of autumn color</em>
+  </div>
 
-### 🌇 Sunset from IIT, Oct 2016  
-![Sunset](/images/eaa/2016-10-01-sunset_from_iit.jpg)  
-*Taken from the IIT campus terrace at dusk*
-
----
-
-### 🟡 Yellow Vibes, Oct 2021  
-![Yellow](/images/eaa/2021-10-01-yellow.jpg)  
-*A burst of color caught on a warm autumn day*
+</div>
