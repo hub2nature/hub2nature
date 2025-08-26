@@ -1,12 +1,12 @@
 ---
-layout: archive
-title: "Extra-Academic Activities"
+layout: page
+title: "EAA"
 permalink: /eaa/
-author_profile: true
 ---
 
-{% include base_path %}
+This section showcases my extracurricular artistic adventures — from photography and paintings to culinary creations and sky snapshots.
 
-{% for post in site.eaa reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- [Photography](/eaa/photography)
+- [Painting](/eaa/painting)
+- [Sky and Colors](/eaa/sky-and-colors)
+- [Culinary Diaries](/eaa/culinary)
