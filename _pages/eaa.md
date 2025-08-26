@@ -7,7 +7,6 @@ author_profile: true
 
 # Extracurricular Artistic Adventures 🎨
 
-This section showcases my creative expressions in photography, painting, culinary work, and literature.
 
 ---
 
