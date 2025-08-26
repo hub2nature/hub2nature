@@ -35,9 +35,9 @@ excerpt: "A gallery of paintings inspired by online references."
   </div>
 
   <div style="flex: 0 0 30%; text-align: center;">
-    <img src="{{ '/images/eaa/2016-10-01-sunset_from_iit.jpg' | relative_url }}" alt="Sunset from IIT" width="300"><br>
+    <img src="{{ '/images/eaa/2016-10-01-sunset_from_iit.jpg' | relative_url }}" alt="Sunset from my IIT Kharagpur residence" width="300"><br>
     <small>🌇 Sunset from IIT, Oct 2016</small><br>
-    <em>From the IIT terrace</em>
+    <!-- <em>From the IIT terrace</em> -->
   </div>
 
   <div style="flex: 0 0 30%; text-align: center;">
