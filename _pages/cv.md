@@ -30,4 +30,4 @@ Work experience
 
 * Summer 2019: Visiting Exchange Student
   
-You can find a complete overview of my academic and professional background in my [résumé (PDF)](/files/MadhurimaM1.pdf).
+You can find a complete overview of my academic and professional background in my [resume](/files/MadhurimaM1.pdf).
