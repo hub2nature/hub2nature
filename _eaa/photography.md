@@ -9,7 +9,7 @@ excerpt: "A collection of photographs with time and place notes."
 ## Photography
 
 ### 🌇 San Diego, July 2023  
-<img src="{{ '/images/eaa/2023-07-22_photo_san_diego.jpg' | relative_url }}" alt="San Diego Sunset" width="600">
+<img src="{{ '/images/eaa/2023-07-22_photo_san_diego.jpg' | relative_url }}" alt="San Diego Sunset" width="200">
 
 
 ### 🌸 Pink Rose, June 2021  
