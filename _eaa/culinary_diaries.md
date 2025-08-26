@@ -3,7 +3,7 @@ title: "Culinary Diaries"
 collection: eaa
 permalink: /eaa/culinary
 # date: 2025-08-25
-excerpt: "Snapshots of homemade culinary experiments."
+# excerpt: "Snapshots of homemade culinary experiments."
 ---
 
 ## Culinary Diaries

@@ -3,7 +3,7 @@ title: "Painting"
 collection: eaa
 permalink: /eaa/painting
 # date: 2025-08-25
-excerpt: "A gallery of paintings inspired by online references."
+# excerpt: "A gallery of paintings inspired by online references."
 ---
 
 ## Painting

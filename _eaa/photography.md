@@ -3,7 +3,7 @@ title: "Photography"
 collection: eaa
 permalink: /eaa/photography
 # date: 2025-08-25
-excerpt: "A collection of photographs with time and place notes."
+# excerpt: "A collection of photographs with time and place notes."
 ---
 
 ## Photography
