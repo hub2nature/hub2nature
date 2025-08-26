@@ -5,8 +5,9 @@ permalink: /eaa/culinary
 # date: 2025-08-25
 # excerpt: "Snapshots of homemade culinary experiments."
 ---
-
+Some of my favorite memories are of us cooking together, side by side, experimenting, laughing, and turning everyday meals into shared rituals.
 ## Culinary Diaries 
+
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
