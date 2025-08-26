@@ -1,10 +1,9 @@
 ---
 layout: archive
-# title: "Awards"
+title: "🏆 Awards & Honors"
 permalink: /awards/
 ---
 
-## 🏆 Awards & Honors
 
 - **2017**: Selected as **Secretary of Technology** at Mother Teresa Hall of Residence in IIT Kharagpur.
 - **2017**: Selected as **Captain** in Inter Hall Maths Olympiad team in IIT Kharagpur.
