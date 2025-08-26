@@ -1,7 +1,7 @@
 ---
 # layout: page
 layout: single
-title: "EAA"
+# title: "EAA"
 permalink: /eaa/
 author_profile: true
 ---
