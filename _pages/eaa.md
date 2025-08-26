@@ -7,12 +7,8 @@ author_profile: true
 
 # Extracurricular Artistic Adventures 🎨
 
-
----
-
-
-{% include base_path %}
-
-{% for post in site.eaa reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<ul>
+  {% for post in site.eaa reversed %}
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
