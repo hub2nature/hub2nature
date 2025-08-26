@@ -13,3 +13,4 @@ In addition to my technical pursuits, I am trained in Rabindra Sangeet and enjoy
 - Email: [mmkpa2012@tamu.edu](mailto:mmkpa2012@gmail.com)
 - LinkedIn: [Madhurima Mondal](https://www.linkedin.com/in/madhurima-mondal-65a59882/)
 - GitHub: [hub2nature](https://hub2nature.github.io/)
+- Google Scholar: [](https://scholar.google.com/citations?user=hnwrjM0AAAAJ&hl=en)
