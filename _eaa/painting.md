@@ -1,5 +1,5 @@
 ---
-title: "Painting"
+# title: "Painting"
 collection: eaa
 permalink: /eaa/painting
 # date: 2025-08-25
