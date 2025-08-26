@@ -7,8 +7,14 @@ author_profile: true
 
 # Extracurricular Artistic Adventures 🎨
 
-<ul>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 1em;">
+
   {% for post in site.eaa reversed %}
-    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    <div style="flex: 0 0 30%; text-align: center;">
+      <a href="{{ post.url | relative_url }}" style="font-weight: bold; font-size: 1.1em;">
+        {{ post.title }}
+      </a>
+    </div>
   {% endfor %}
-</ul>
+
+</div>
