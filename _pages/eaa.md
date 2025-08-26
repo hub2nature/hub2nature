@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "EAA"
-permalink: /images/eaa/
+permalink: /eaa/
 ---
 
 # Extracurricular Artistic Adventures 🎨
