@@ -27,4 +27,4 @@ Work experience
 * Summer 2019: Visiting Exchange Student, University of Illinois at Urbana-Champaign, USA
   Supervisor: Dr. Idoia Ochoa
   
-A complete overview of my academic and professional background is in my [resume](/files/MadhurimaM1.pdf).
+A complete overview of my academic and professional background is in my [resume](/MadhurimaM1.pdf).
