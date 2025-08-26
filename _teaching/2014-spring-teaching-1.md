@@ -1,5 +1,5 @@
 ---
-title: "Teaching Experience"
+# title: "Teaching Experience"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching-experience
@@ -7,8 +7,6 @@ venue: "Texas A&M University, Department of Electrical and Computer Engineering"
 date: 2022-09-01
 location: "College Station, Texas, USA"
 ---
-
-# Teaching Experience
 
 ### Texas A&M University
 
