@@ -1,6 +1,5 @@
 ---
 layout: archive
-# title: "EAA"
 permalink: /eaa/
 author_profile: true
 ---

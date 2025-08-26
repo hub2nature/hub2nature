@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Awards"
+layout: archive
+# title: "Awards"
 permalink: /awards/
 ---
 
