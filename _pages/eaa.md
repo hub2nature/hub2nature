@@ -1,11 +1,11 @@
 ---
-layout: single
-# layout: archive
+layout: archive
 title: "EAA"
 permalink: /eaa/
 author_profile: true
 ---
 
+# Extracurricular Artistic Adventures 🎨
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 1em;">
 
