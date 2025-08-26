@@ -27,7 +27,7 @@ permalink: /eaa/photography
 
   <div style="flex: 0 0 30%; text-align: center;">
     <img src="{{ '/images/eaa/2016-10-01-sunset_from_iit.jpg' | relative_url }}" alt="Sunset from my IIT Kharagpur residence" width="300" height="150"><br>
-    <small>🌇 Sunset from IIT, Sep 2016</small>
+    <small>🌇 Sunset from IIT Residence, Sep 2016</small>
   </div>
 
 </div>
